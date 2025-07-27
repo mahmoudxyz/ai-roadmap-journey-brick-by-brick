@@ -4,7 +4,7 @@ Welcome to the delicious irony of learning AI: your goal is to become a competen
 
 We're drowning in the age of multi-source paralysis, where people never start because there are too many resources, then AI swoops in like an overenthusiastic friend doing your homework while you watch Netflix. Suddenly we're all convinced we're learning while the AI does the thinking. Plot twist: you're not learning; you're becoming an intellectual couch potato.
 
-**Prerequisites**: Your brain. That's it. I might permit a calculator—those ancient relics with actual buttons, but GPT, Claude, or any AI assistant? Absolutely not. We're going full analog, like our ancestors did in the dark ages of... 2010.
+**Prerequisites**: Your brain. That's it. I might permit a calculator, those ancient relics with actual buttons, but GPT, Claude, or any AI assistant? Absolutely not. We're going full analog, like our ancestors did in the dark ages of... 2010.
 
 Learn the hard way. Struggle through derivations by hand, debug with print statements, calculate gradients until your calculator dies. Why? Because there's a difference between being a chef who creates masterpieces from scratch and someone who can only reheat frozen dinners. Both fill your stomach, but only one feeds your understanding.
 
@@ -32,7 +32,7 @@ Important Notice: This repository contains my personal learning notes and implem
 
 ## The Mathematical
 
-Here's your roadmap through the mathematical wilderness, because jumping straight into neural networks without calculus is like trying to perform brain surgery with a butter knife—technically possible, but inadvisable.
+Here's your roadmap through the mathematical wilderness, because jumping straight into neural networks without calculus is like trying to perform brain surgery with a butter knife, technically possible, but inadvisable.
 ![Math Roadmap for the AI](./assets/diagrams/math-diagram.png)
 
 ```

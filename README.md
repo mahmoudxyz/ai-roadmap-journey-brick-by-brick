@@ -35,6 +35,110 @@ Important Notice: This repository contains my personal learning notes and implem
 Here's your roadmap through the mathematical wilderness, because jumping straight into neural networks without calculus is like trying to perform brain surgery with a butter knife—technically possible, but inadvisable.
 ![Math Roadmap for the AI](./assets/diagrams/math-diagram.png)
 
+```
+                🔥 Basic Algebra & Pre-Calculus
+                            │
+                    🔥 Discrete Mathematics
+                            │
+        ┌───────────────────┼───────────────────┐
+        │                   │                   │
+    🔥 Single Variable     🔥 Logic & Proofs   🔥 Sets & Functions
+    Calculus                   │                   │
+        │               🔥 Boolean Algebra      🔥 Relations
+    🔥 Derivatives             │                   │
+        │               ⭐ Propositional        ⭐ Equivalence
+    🔥 Integrals           Logic                Relations
+        │                   │                   │
+        └───────────────────┼───────────────────┘
+                            │
+        ┌───────────────────┼───────────────────┐
+        │                   │                   │
+    🔥 Multivariable       ⭐ Graph Theory      💡 Combinatorics
+    Calculus                   │                   │
+        │               ⭐ Trees & Networks     💡 Counting
+    🔥 Partial Derivatives     │               Principles
+        │               ⭐ Algorithms on        │
+    🔥 Multiple Integrals  Graphs             💡 Permutations &
+        │                   │               Combinations
+    ⭐ Vector Fields           │                   │
+        │                   │                   │
+        └───────────────────┼───────────────────┘
+                            │
+                    ⭐ Vector Calculus
+                            │
+        ┌───────────────────┼───────────────────┐
+        │                   │                   │
+    ⭐ Gradient &           ⭐ Line & Surface    💡 Green's & Stokes'
+    Divergence             Integrals           Theorems
+        │                   │                   │
+    ⭐ Curl & Del          ⭐ Vector Fields      💡 Divergence Theorem
+    Operator                   │                   │
+        │               💡 Conservative         💡 Applications to
+    💡 Directional         Fields              Physics
+    Derivatives               │                   │
+        │                   │                   │
+        └───────────────────┼───────────────────┘
+                            │
+                ═══ The Convergence Point ═══
+                            │
+                    🔥 Linear Algebra
+                            │
+        ┌───────────────────┼───────────────────┐
+        │                   │                   │
+    🔥 Matrices &          🔥 Vector Spaces     🔥 Eigenvalues &
+    Determinants               │               Eigenvectors
+        │               🔥 Linear                │
+    🔥 Matrix Operations   Independence         🔥 Diagonalization
+        │                   │                   │
+    🔥 Gaussian            🔥 Basis &           ⭐ Singular Value
+    Elimination            Dimension          Decomposition
+        │                   │                   │
+        └───────────────────┼───────────────────┘
+                            │
+        ┌───────────────────┼───────────────────┐
+        │                   │                   │
+    🔥 Inner Products      ⭐ Matrix           💡 Tensor Algebra
+        │               Decompositions           │
+    🔥 Orthogonality       ⭐ LU/QR/Cholesky    💡 Multilinear
+        │                   │               Algebra
+    ⭐ Gram-Schmidt        💡 Pseudo-inverse     │
+    Process                   │               💡 Tensor
+        │                   │               Decompositions
+        └───────────────────┼───────────────────┘
+                            │
+                ═══ Advanced Mathematical Tools ═══
+                            │
+        ┌───────────────────┼───────────────────┐
+        │                   │                   │
+    🔥 Probability Theory  ⭐ Statistics        ⭐ Optimization Theory
+        │                   │                   │
+    🔥 Random Variables    ⭐ Descriptive       ⭐ Convex Optimization
+        │               Statistics              │
+    🔥 Distributions       ⭐ Hypothesis        🔥 Gradient Descent
+        │               Testing                 │
+    🔥 Bayes' Theorem      ⭐ Confidence        ⭐ Lagrange Multipliers
+        │               Intervals              │
+    ⭐ Central Limit       💡 Regression        💡 Constrained
+    Theorem               Analysis            Optimization
+        │                   │                   │
+    ⭐ Markov Chains       💡 ANOVA             💡 Linear Programming
+        │                   │                   │
+        └───────────────────┼───────────────────┘
+                            │
+            💡 Specialized Mathematical Areas
+                            │
+        ┌───────────────────┼───────────────────┐
+        │                   │                   │
+    💡 Real Analysis       💡 Complex Analysis  💡 Differential
+        │                   │               Equations
+    💡 Measure Theory      💡 Fourier Analysis  💡 ODEs & PDEs
+        │                   │                   │
+    💡 Functional Analysis 💡 Signal Processing 💡 Dynamical Systems
+        │                   │                   │
+    💡 Topology            💡 Information       💡 Control Theory
+        │               Theory                  │
+```
+
 ## Developer Tools
 
 ### The Command Line Foundation

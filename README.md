@@ -16,17 +16,15 @@ Important Notice: This repository contains my personal learning notes and implem
 
 **For Beginners**: If you're also learning AI, feel free to follow along, but remember to cross-reference with authoritative sources and don't rely solely on these notes.
 
-# Universal Learning Priority Legend
+## Universal Learning Priority Legend
 
-## Priority Levels
+### Priority Levels
 
 | Emoji | Level           | Description                                                     |
 | ----- | --------------- | --------------------------------------------------------------- |
 | 🔥    | **Must Learn**  | Absolutely essential - skip this at your own peril              |
 | ⭐    | **Recommended** | Highly valuable - will make your journey significantly smoother |
 | 💡    | **Optional**    | Nice to have - useful but not critical for getting started      |
-
-## Usage Guidelines
 
 ## The Roadmap
 

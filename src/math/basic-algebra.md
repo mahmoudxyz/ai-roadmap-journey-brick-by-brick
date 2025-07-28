@@ -2,6 +2,20 @@
 
 This is where your mathematical foundation begins. If you're thinking "I already know algebra," great, but take a moment to make sure you really understand these concepts at a level that will support everything that comes after.
 
+## Resources
+
+I recommend watching only Professor Leonard	 and study and solve all problems Calculus I with integrated Precalculus book
+
+| Resource | Type | Cost | Link |
+|----------|------|------|------|
+| Khan Academy Algebra | Interactive Course | Free | <a href="https://khanacademy.org/math/algebra" target="_blank">khanacademy.org</a>|
+| Paul's Online Math Notes | Reference/Tutorial | Free | [tutorial.math.lamar.edu](https://tutorial.math.lamar.edu/) |
+| Professor Leonard | Video Lectures | Free | [YouTube](https://youtube.com/playlist?list=PLDesaqWTN6ESsmwELdrzhcGiRhk5DjwLP&si=nCdXn2zkYTe3TVQA) |
+| OpenStax Algebra & Trigonometry | Textbook | Free | [openstax.org](https://openstax.org/books/algebra-and-trigonometry) |
+| PatrickJMT | Video Tutorials | Free | [YouTube](https://youtube.com/user/patrickjmt) |
+| Wolfram Alpha | Problem Solver | Free/Paid | [wolframalpha.com](https://wolframalpha.com) |
+| Calculus I with integrated Precalculus | Book | Free/Paid | [READ CHAPTER 0](https://a.co/d/5bpuEcg) |
+
 ## Why This Matters for AI
 
 Machine learning is fundamentally about finding patterns in data using mathematical relationships. Every neural network weight update, every optimization step, every statistical model relies on algebraic manipulation. When you see a research paper with equations, this is the language they're written in.
@@ -35,19 +49,6 @@ Don't rush through this thinking it's too basic. Many people who struggle with c
 Pay attention to the logical structure of mathematical arguments. Understanding why steps are valid, not just how to execute them, builds the reasoning skills you'll need for more advanced topics.
 
 Practice working without a calculator when possible. You need to develop number sense and be comfortable with approximations.
-
-## Resources
-
-| Resource | Type | Cost | Link |
-|----------|------|------|------|
-| Khan Academy Algebra | Interactive Course | Free | [khanacademy.org](https://khanacademy.org/math/algebra) |
-| Paul's Online Math Notes | Reference/Tutorial | Free | [tutorial.math.lamar.edu](https://tutorial.math.lamar.edu/) |
-| Professor Leonard | Video Lectures | Free | [YouTube](https://youtube.com/c/ProfessorLeonard) |
-| OpenStax Algebra & Trigonometry | Textbook | Free | [openstax.org](https://openstax.org/books/algebra-and-trigonometry) |
-| PatrickJMT | Video Tutorials | Free | [YouTube](https://youtube.com/user/patrickjmt) |
-| Wolfram Alpha | Problem Solver | Free/Paid | [wolframalpha.com](https://wolframalpha.com) |
-| MIT OpenCourseWare 18.01 | Course Materials | Free | [ocw.mit.edu](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/) |
-| Brilliant.org | Interactive Learning | Paid | [brilliant.org](https://brilliant.org) |
 
 ## Moving Forward
 

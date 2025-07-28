@@ -13,14 +13,8 @@
 ## Mathematical Foundations
 
 ### Core Mathematics
+- [The Math](./math/intro.md)
 - [Basic Algebra & Pre-Calculus](./math/basic-algebra.md)
-- [Single Variable Calculus](./math/single-calculus.md)
-  - [Derivatives](./math/derivatives.md)
-  - [Integrals](./math/integrals.md)
-- [Multivariable Calculus](./math/multivariable-calculus.md)
-  - [Partial Derivatives](./math/partial-derivatives.md)
-  - [Multiple Integrals](./math/multiple-integrals.md)
-  - [Vector Fields](./math/vector-fields.md)
 
 ### Discrete Mathematics
 - [Logic & Proofs](./math/logic-proofs.md)
@@ -35,6 +29,15 @@
 - [Combinatorics](./math/combinatorics.md)
   - [Counting Principles](./math/counting-principles.md)
   - [Permutations & Combinations](./math/permutations-combinations.md)
+
+- [Single Variable Calculus](./math/single-calculus.md)
+  - [Derivatives](./math/derivatives.md)
+  - [Integrals](./math/integrals.md)
+- [Multivariable Calculus](./math/multivariable-calculus.md)
+  - [Partial Derivatives](./math/partial-derivatives.md)
+  - [Multiple Integrals](./math/multiple-integrals.md)
+  - [Vector Fields](./math/vector-fields.md)
+
 
 ### Vector Calculus
 - [Gradient & Divergence](./math/gradient-divergence.md)
